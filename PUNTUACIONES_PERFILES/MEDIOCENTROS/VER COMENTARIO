@@ -2,3 +2,6 @@ Cada archivo es la puntuación de perfiles dentro de cada nivel, ya que no es lo
 
 El archivo llamado 'posicion'_prueba es el archivo donde se juntan de nuevo todos los jugadores de la posición escogida de todos los niveles con 
 sus respectivas puntuaciones por perfil, para posteriormente volver a juntarlos con el resto de posiciones
+
+En el caso de mediocentros, hay más archivos ya que están divididos en por decirlo alguna manera 2 diferentes scripts por nivel donde hay 3 
+distintos perfiles en cada uno, con 6 perfiles en total en esta posicion
