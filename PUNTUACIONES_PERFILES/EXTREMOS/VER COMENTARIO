@@ -1,0 +1,4 @@
+Cada archivo es la puntuación de perfiles dentro de cada nivel, ya que no es lo mismo obtener x métricas en la Premier League que en la CSL.
+
+El archivo llamado 'posicion'_prueba es el archivo donde se juntan de nuevo todos los jugadores de la posición escogida de todos los niveles con 
+sus respectivas puntuaciones por perfil, para posteriormente volver a juntarlos con el resto de posiciones
